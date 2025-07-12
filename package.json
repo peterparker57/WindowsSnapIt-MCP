@@ -1,0 +1,14 @@
+{
+  "name": "windowssnapit-mcp",
+  "version": "2.2.0",
+  "description": "WindowsSnapIt - Advanced screenshot capture and clipboard reading MCP for Windows applications",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "sharp": "^0.34.3"
+  }
+}
